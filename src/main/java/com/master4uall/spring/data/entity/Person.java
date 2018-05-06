@@ -2,7 +2,7 @@ package com.master4uall.spring.data.entity;
 
 import javax.persistence.*;
 
-@Entity(name = "people")
+@Entity(name = "Person")
 public class Person {
 
 
